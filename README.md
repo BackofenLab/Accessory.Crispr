@@ -1,4 +1,5 @@
-# Accessory.Crispr
+# Comprehensive search for accessory proteins encoded with archaeal and bacterial Type III CRISPR-Cas gene cassettes reveals 39 new cas gene families
+
 A study was undertaken to identify conserved proteins that are encoded adjacent to cas gene
 cassettes of Type III CRISPR-Cas (Clusters of Regularly IntersSpaced Palindromic Repeats -
 CRISPR associated) interference modules. Type III modules have been shown to target and degrade
