@@ -18,3 +18,4 @@ automated pipelines for annotation of CRISPR-Cas systems have been developed.
 All accessory genes found in this study are presented online in a
 readily accessible and searchable format for researchers to audit their model organism of choice:
 http://accessory.crispr.dk.
+https://www.biorxiv.org/content/early/2018/02/09/262675
