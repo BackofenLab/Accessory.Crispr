@@ -1,4 +1,4 @@
-#Table S2
+# Table S2
 
 Gene names, and host genome accession numbers are given for each putative accessory gene 
 together with its gene cluster id and the adjacent Type III module subtype. Gene maps can be 
