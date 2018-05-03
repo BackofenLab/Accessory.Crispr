@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # The following script will reproduce the principal result of the study, i.e. the clustering of flanking genes and calculation of Cas association scores
 # For running the code, it is required that FASTA v36 and MCL be installed on the system
 
@@ -37,4 +38,7 @@ seq 1 $(tail -1 flank5.clusters.tab | cut -f2) | while read line; do cat cluster
 
 # To calculate the final Cas association score:
 join -1 1 -2 1 flank5.clusters.cospecificity.tab flank5.clusters.selfsimilarity.tab | awk '{print $1, $2-$3}'
+
+
+
 

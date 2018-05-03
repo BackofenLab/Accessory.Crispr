@@ -1,4 +1,4 @@
- # Table S1
+# Table S1
 
 List of putative accessory gene clusters conserved near Type III genetic  modules which passed the Type
 III association score cut-off (>24). A few gene families with lower scores are also included because they 
@@ -9,5 +9,6 @@ families identified in earlier studies (Haft et al. 2005;  Vestergaard et al. 20
 Thirty nine of 76 putative accessory protein families are newly identified.  Links to sequence alignments, 
 gene and genome maps are provided as well as profile-profile alignment results against Pfam and PDB. 
 A predicted function is given in the last two columns.
+
 
 http://accessory.crispr.dk

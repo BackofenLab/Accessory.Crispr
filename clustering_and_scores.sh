@@ -1,6 +1,8 @@
+
 # The following script will reproduce the principal result of the study, i.e. the clustering of flanking genes and 
 #calculation of Cas association scores
 # For running the code, it is required that FASTA v36 and MCL be installed on the system
+
 
 # In addition a file containing protein sequences for genes flanking CRISPR-Cas systems is needed
 # This file is assumed to be called flank5.faa, because in our study we used the five genes immediately flanking 
